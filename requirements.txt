@@ -1,0 +1,10 @@
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.2
+seaborn==0.12.2
+shap==0.42.1
+scikit-learn==1.2.2
+xgboost==1.7.6
+tensorflow==2.13.0
+jupyter==1.0.0
+jupytext==1.16.0
